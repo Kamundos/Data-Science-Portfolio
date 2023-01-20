@@ -9,7 +9,7 @@ Note: Data used in the projects (accessed under data directory) is for demonstra
 
  ### Machine Learning Projects: 
  
- #### Supervised Learning
+ ##### Supervised Learning
  * Classification:
  
  * Regression:
@@ -17,7 +17,7 @@ Note: Data used in the projects (accessed under data directory) is for demonstra
  ** Loan Prediction 
  *
  
-  #### Unsupervised Learning
+  ##### Unsupervised Learning
 
 
 
