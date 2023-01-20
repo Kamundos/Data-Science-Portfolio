@@ -7,6 +7,7 @@ Note: Data used in the projects (accessed under data directory) is for demonstra
 - Machine Learning Projects: 
 -   SL
 -     Classification:
+-     https://intellipaat.com/community/20249/create-folder-in-github-how-to-create-folder-in-github-repository
 -     Regression:
 
 
