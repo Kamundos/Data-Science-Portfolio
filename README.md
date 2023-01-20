@@ -4,6 +4,9 @@ Repository containing portfolio of data science projects completed by me for aca
 
 Note: Data used in the projects (accessed under data directory) is for demonstration purposes only.
 
-- ### Micro Projects: 
+- Machine Learning Projects: 
+-   SL
+-     Classification:
+-     Regression:
 
 
