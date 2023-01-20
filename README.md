@@ -9,11 +9,14 @@ Note: Data used in the projects (accessed under data directory) is for demonstra
 
  ### Machine Learning Projects: 
  
- * House Prices Prediction Playlist:( https://www.youtube.com/watch?v=-dK_80wu4xs&list=PL-u09-6gP5ZPOfSPTto4BIDwky-8aP4rQ )
+ * House Prices Prediction ( https://www.youtube.com/watch?v=-dK_80wu4xs&list=PL-u09-6gP5ZPOfSPTto4BIDwky-8aP4rQ )
  
  * Loan Prediction 
 
  * Credit Risk Analysis
+ 
+ * Bank Customer Retirement Classification
+
  
 
 ### Python Projects: 
