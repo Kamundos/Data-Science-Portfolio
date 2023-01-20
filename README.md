@@ -9,16 +9,12 @@ Note: Data used in the projects (accessed under data directory) is for demonstra
 
  ### Machine Learning Projects: 
  
- ##### Supervised Learning
- * Classification:
+ * House Prices Prediction
  
- * Regression:
-   ** House Prices Prediction
-   ** Loan Prediction 
-   **  
- 
-  ##### Unsupervised Learning
+ * Loan Prediction 
 
+ * 
+ 
 
 
 ### Python Projects: 
