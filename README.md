@@ -13,9 +13,9 @@ Note: Data used in the projects (accessed under data directory) is for demonstra
  * Classification:
  
  * Regression:
-  ** House Prices Prediction
-  ** Loan Prediction 
-  **  
+   ** House Prices Prediction
+   ** Loan Prediction 
+   **  
  
   ##### Unsupervised Learning
 
