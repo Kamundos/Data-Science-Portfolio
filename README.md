@@ -9,13 +9,12 @@ Note: Data used in the projects (accessed under data directory) is for demonstra
 
  ### Machine Learning Projects: 
  
- * House Prices Prediction
+ * House Prices Prediction ( https://www.youtube.com/watch?v=-dK_80wu4xs&list=PL-u09-6gP5ZPOfSPTto4BIDwky-8aP4rQ )
  
  * Loan Prediction 
 
- * 
+ * Credit Risk Analysis
  
-
 
 ### Python Projects: 
 
@@ -25,7 +24,7 @@ Note: Data used in the projects (accessed under data directory) is for demonstra
 
 
 
-### Data Analysis and Analysis: 
+### Data Analysis and Analysis: ( https://www.youtube.com/watch?v=fhiUl7f5DnI&list=PLy3lFw0OTlutzXFVwttrtaRGEEyLEdnpy&index=2 )
 * Cars
 
 
