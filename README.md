@@ -1,6 +1,6 @@
 # Data-Science-Portfolio
 
-This repository contains a portfolio of data science projects completed by me for academic, self learning, and hobby purpose, presented in the form of Jupyter Notebooks. It is a compilation of notebooks which I created for data analysis or for exploration of machine learning projects
+This repository contains a portfolio of data science projects completed by me for academic, self learning, and hobby purpose, presented in the form of Jupyter Notebooks. It is a compilation of notebooks which I created for data analysis or for exploration of machine learning projects. 
 
 Note: Data used in the projects (accessed under data directory) is for demonstration purposes only.
 
@@ -35,4 +35,10 @@ Note: Data used in the projects (accessed under data directory) is for demonstra
 Playlist: ( https://www.youtube.com/watch?v=fhiUl7f5DnI&list=PLy3lFw0OTlutzXFVwttrtaRGEEyLEdnpy&index=2 )
 * Cars
 
+
+
+
+
+## Contact or Collaborate with me:
+Email: nwanjiru@vols.utk.edu
 
