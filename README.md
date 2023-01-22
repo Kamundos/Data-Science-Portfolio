@@ -32,7 +32,6 @@ Note: Data used in the projects (accessed under each project directory) is for d
 
 
 ### Data Analysis:
-Playlist: ( https://www.youtube.com/watch?v=fhiUl7f5DnI&list=PLy3lFw0OTlutzXFVwttrtaRGEEyLEdnpy&index=2 )
 * Cars Data Analysis | Project 1
 
 
