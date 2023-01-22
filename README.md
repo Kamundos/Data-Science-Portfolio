@@ -2,7 +2,7 @@
 
 This repository contains a portfolio of data science projects completed by me for academic, self learning, and hobby purpose, presented in the form of Jupyter Notebooks. This compilation of notebooks covers topics for data analysis or for exploration of machine learning projects. 
 
-Note: Data used in the projects (accessed under data directory) is for demonstration purposes only.
+Note: Data used in the projects (accessed under each project directory) is for demonstration purposes only.
 
 ## Contents
 
