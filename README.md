@@ -32,7 +32,7 @@ Note: Data used in the projects (accessed under each project directory) is for d
 
 
 ### Data Analysis:
-* <a href="https://github.com/Kamundos/Data-Science-Portfolio/tree/main/CARS%20Data%20Analysis%20%7C%20Project%201"> Cars Data Analysis </a>. 
+* <a href="https://github.com/Kamundos/Data-Science-Portfolio/tree/main/CARS%20Data%20Analysis%20%7C%20Project%201"> Cars Data Analysis </a> 
 
 
 
