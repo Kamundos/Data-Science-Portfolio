@@ -35,7 +35,7 @@ Note: Data used in the projects (accessed under each project directory) is for d
 * <a href="https://github.com/Kamundos/Data-Science-Portfolio/tree/main/CARS%20Data%20Analysis%20%7C%20Project%201"> Cars Data Analysis </a> 
 * Police Analysis
 * <a href="https://github.com/Kamundos/Data-Science-Portfolio/tree/main/London%20Housing"> London Housing Data </a> 
-* E-Commerce Purchase Analysis
+* E-Commerce Purchase EDA - Analysis
 * EDA - Student University Preference
 
 
