@@ -37,7 +37,7 @@ Note: Data used in the projects (accessed under each project directory) is for d
 * <a href="https://github.com/Kamundos/Data-Science-Portfolio/tree/main/London%20Housing"> London Housing Data </a> 
 *  <a href="https://github.com/Kamundos/Data-Science-Portfolio/tree/main/E-Commerce%20-%20EDA"> E-Commerce Purchase EDA - Analysis </a> 
 * EDA - Student University Preference
-
+* Marketing Analytics - EDA & Visulazations
 
 
 
