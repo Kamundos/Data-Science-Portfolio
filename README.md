@@ -41,6 +41,11 @@ Note: Data used in the projects (accessed under each project directory or within
 
 
 
+## Portfolio DA / DS projects:
+* Customer Segmentation Analysis - Data cleaning & pre-processing
+* Women's Clothing E-Commerce Reviews - Data pre-processing & NLP
+* Superstore Marketing Campaign Analysis - Data cleaning & modeling
+* E-Commerce Customer Experience Analysis - Data cleaning & modeling
 
 ## Contact or Collaborate with me:
 Email: nwanjiru@vols.utk.edu
