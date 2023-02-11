@@ -29,7 +29,6 @@ Note: Data used in the projects (accessed under each project directory or within
  * Campus Placement Analysis
  (https://www.kaggle.com/code/shubham47/campus-placement-analysis/notebook)
 
---->
 
 ### Exploratory Data Analysis:
 * <a href="https://github.com/Kamundos/Data-Science-Portfolio/tree/main/CARS%20Data%20Analysis%20%7C%20Project%201"> Cars Data Analysis </a> 
@@ -38,14 +37,13 @@ Note: Data used in the projects (accessed under each project directory or within
 *  <a href="https://github.com/Kamundos/Data-Science-Portfolio/tree/main/E-Commerce%20-%20EDA"> E-Commerce Purchase EDA - Analysis </a> 
 * EDA - Student University Preference
 * Marketing Analytics - EDA & Visulazations
+--->
 
-
-
-## Portfolio DA / DS projects:
-* Customer Segmentation Analysis - Data cleaning & pre-processing
-* Women's Clothing E-Commerce Reviews - Data pre-processing & NLP
-* Superstore Marketing Campaign Analysis - Data cleaning & modeling
-* E-Commerce Customer Experience Analysis - Data cleaning & modeling
+## Exploratory Data Analysis projects:
+* Customer Segmentation Analysis
+* Women's Clothing E-Commerce Reviews 
+* Superstore Marketing Campaign Analysis 
+* E-Commerce Customer Experience Analysis 
 
 ## Contact or Collaborate with me:
 Email: nwanjiru@vols.utk.edu
