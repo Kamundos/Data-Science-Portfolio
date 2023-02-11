@@ -4,9 +4,10 @@ This repository contains a portfolio of data science projects completed by me fo
 
 Note: Data used in the projects (accessed under each project directory or within the notebook) is for demonstration purposes only.
 
+<!---
+
 ## Contents
 
-<!---
  ### Machine Learning Projects: 
  
  * House Prices Prediction ( https://www.youtube.com/watch?v=-dK_80wu4xs&list=PL-u09-6gP5ZPOfSPTto4BIDwky-8aP4rQ )
